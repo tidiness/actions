@@ -1,16 +1,11 @@
 # 🧹 tidiness actions 🧹
 
-Org level actions for use across multiple repositories... because who likes re-inventing wheels?
-
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-A tidy python repo.
 
-Base repository for use as a template.
-
-Minimal dependencies and a basic CI pipeline using GitHub Actions.
+Org level actions for use across multiple repositories... because who likes re-inventing wheels?
 
 ## Contributors ✨
 
