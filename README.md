@@ -1,5 +1,8 @@
-# 🧹 tidy-python 🧹
-[![CI](https://github.com/NaffanDroo/tidy-python/actions/workflows/poetry-tests.yaml/badge.svg)](https://github.com/NaffanDroo/tidy-python/actions/workflows/poetry-tests.yaml) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+# 🧹 tidiness actions 🧹
+
+Org level actions for use across multiple repositories... because who likes re-inventing wheels?
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
